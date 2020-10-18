@@ -27,6 +27,8 @@ I do find this enogugh in order to be able to see some differences.
 
 ![alt west](https://github.com/jakob-lj/ardoqcase/blob/main/task3/result/westTrips.png?raw=true)
 
+![alt east](https://github.com/jakob-lj/ardoqcase/blob/main/task3/result/eastTrips.png?raw=true)
+
 
 However, After removing the fasts and slowest riders, the avarage speed is 3.14 in west and 2.93 in east. Witch is not a significant difference. 
 

@@ -4,7 +4,7 @@ from time import sleep
 
 baseUrl = "https://maps.googleapis.com/maps/api/directions/json?mode=bicycling&origin=%s&destination=%s&key=%s"
 
-ENABLED_FETCHING = True
+ENABLED_FETCHING = False
 
 def getCoordinates(point):
     return "%s,%s" % (point.lat, point.long)

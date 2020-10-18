@@ -35,3 +35,15 @@ I do find this enogugh in order to be able to see some differences.
 
 However, After removing the fasts and slowest riders, the avarage speed is 3.14 in west and 2.93 in east. Witch is not a significant difference. 
 
+# Code quality
+Usually I would do task 2, and write a simple web app using javascript, however, not working so much with python lately, I felt a call to do task 3 and use some advanced python threading. 
+
+Mainly, I focused on creative coding. Not being forced to think in a structure, I was able to develop code faster than I would with Java. Unfortunately, my code is some hard to read, and badly structured. 
+
+# Improvements
+- First of all. Finding more interesting results would be great.
+- Also, I think some points will make the "same" call to Google, should have tested more in order to see if to stations will have the same trip regarding on direction. Might be able to reduce costs even more.
+- More data. Having 250k trips available, I find it a bit sad only analysing 2k.
+- Better report. After a lot of coding, I should have used more time writing a report:)
+- Not done the test. Empirical stats show that you are better off without doing the tests at Ardoq.
+

@@ -3,3 +3,5 @@
 .env
 
 apr19.json
+
+*.jake

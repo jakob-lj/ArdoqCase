@@ -1,13 +1,14 @@
 # ArdoqCase
 
 TLDR;
+```
 python3 -m venv <name>[default: venv]
 source <name>[default: vevn]/bin/activate
 pip install -r requirements.txt
 python3 fetchData.py
 python3 getData.py
 python3 handleData.py
-
+```
 Please send me an email if you want to know more about the analysis
 
 In my case, I wanted to stand out, using more information about the trips than what was available from Oslo bysykkel.

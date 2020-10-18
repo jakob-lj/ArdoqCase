@@ -22,6 +22,9 @@ Used to filter trips and add avarage speed to unique trips
 Making charts
 
 # Reults
+
+![alt trips](https://github.com/jakob-lj/ardoqcase/blob/main/task3/result/trips.png?raw=true)
+
 Having a total of 2193 unique trips started from centrum going out of centrum, started between 16.00(-) to 17.00(-), 975 trips were going in the west direction, while 1218 was eastgoing. 
 I do find this enogugh in order to be able to see some differences. 
 
